@@ -10,7 +10,7 @@ export const PersonalInfo: AboutMeData = {
   name: "Your Name",
   role: "Game Developer",
   logo: undefined, // optional, e.g. "/images/logo.png". Without one, your initials are shown
-  headline: "Hi, I'm Your Name. I make",
+  headline: "Hi, I'm salina baig . I make",
   headlineHighlight: "games people love to play.",
   introduction: "A short intro about you: what you make, the engine and languages you use, and what you're working on right now.",
   image: "/images/Profile.jpg",
